@@ -6,3 +6,5 @@ beautifulsoup4
 nltk
 newspaper3k
 goose3
+jupyter
+
