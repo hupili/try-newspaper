@@ -8,3 +8,4 @@ newspaper3k
 goose3
 jupyter
 readability-lxml
+scrapely
